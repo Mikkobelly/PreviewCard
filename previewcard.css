@@ -248,7 +248,10 @@ button {
         border: none;
         border-radius: 10px;
         overflow: hidden;
+        display: flex;
         flex-direction: row;
+        justify-content: center;
+        align-items: center;
         max-width: 800px;
         min-height: 65vh;
     }
